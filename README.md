@@ -1,2 +1,4 @@
 # Hello-World
-First Repository
+Hi sapiens,
+
+The tacos sentence is so lame.
